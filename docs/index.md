@@ -27,13 +27,13 @@ d.
 
 ```markdown
 
-**Lab Title:**
+Lab Title:
 
 
-**Description:**
+Description:
 
 
-**Steps:**
+Steps:
 
 
 ```
