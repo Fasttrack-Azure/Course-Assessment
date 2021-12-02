@@ -1,4 +1,4 @@
-# Welcome to the course assessment for auttomatig application deployment to AKS using GitHub Actions
+# Welcome to the course assessment for automatig application deployment to AKS using GitHub Actions
 
 This course is composed up of the below sections:
 
