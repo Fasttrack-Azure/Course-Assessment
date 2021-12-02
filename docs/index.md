@@ -9,7 +9,7 @@ Multiple choice Questions
 Lab Exercise
 
 ### Time Given
-2 Hours
+3 Hours
 
 ## Section 1 - MCQs
 
@@ -27,13 +27,13 @@ d.
 
 ```markdown
 
-### Lab Title:
+**Lab Title:**
 
 
-### Description:
+**Description:**
 
 
-### Steps:
+**Steps:**
 
 
 ```
