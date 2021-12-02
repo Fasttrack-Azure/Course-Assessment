@@ -8,3 +8,7 @@ dotnet publish -c Release -o published
 dotnet published/react-dotnet-example.dll
 
 # Build the image
+// build the image
+docker build -t react-dotnet-img .
+// list the images
+docker images
