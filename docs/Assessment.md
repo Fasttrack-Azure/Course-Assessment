@@ -27,13 +27,23 @@ d.
 
 ```markdown
 
-Lab Title:
+**Lab Title:** Develop an automated workflow using GitHub Actions to deploy an application with React frontend and .NET Core Web API backend to Azure Kubernetes Service
 
 
-Description:
+**Description:**
+This lab covers the below dimensions of AKS and GitHub:
+1. AKS Operations
+2. GitHub Actions
+3. HELM 3
+4. Integration with Container Registry
+5. Integration with Azure Key Vault
+6. Integration with Azure Storage
 
 
-Steps:
+**Steps:**
+
+**Step 1:
+**
 
 
 ```
