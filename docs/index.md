@@ -14,12 +14,36 @@ Lab Exercise
 ## Section 1 - MCQs
 
 ```markdown
-Question 1
-Question 
-a. 
-b. 
-c. 
-d. 
+Question 1. Which one of the following is an orchestration software which can be used for scaling containers?
+
+A. Azure Batch.
+B. Azure Kubernetes.
+C. Azure Data Factory.
+D. Azure key vault.
+
+
+Question 2. What is the basic operational unit of Kubernetes?
+
+A. Pod
+B. Container
+C. Nodes
+D. Task
+
+
+Question 3. Which one of the following can be done for a container based application using Azure Kubernetes?
+
+A. Making container scalability easy.
+B. Make workloads portable.
+C. Build more extensible apps.
+D. All of the above.
+
+
+Question 4. Which one of the following helps to set up cluster autoscaler for adding capacity as per demand?
+
+A. Virtual nodes
+B. VM Scale sets
+C. Container
+D. None of the above.
 
 ```
 
@@ -39,7 +63,7 @@ This lab covers the below dimensions of AKS and GitHub:
 5. Integration with Azure Key Vault
 6. Integration with Azure Storage
 
-The proof of executions for this lab are requested to be uploaded to the lelow location:
+The proof of executions for this lab are requested to be uploaded to the below location:
 https://1drv.ms/u/s!AjKtnZen93C0nRWh0myuo4CTCqyH?e=haO08c
 
 **Steps:**
