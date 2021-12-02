@@ -23,3 +23,18 @@ d.
 
 ```
 
+## Section 2 - Lab Exercise
+
+```markdown
+
+### Lab Title:
+
+
+### Description:
+
+
+### Steps:
+
+
+```
+
