@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the course assessment for auttomatig application deployment to AKS using GitHub Actions
 
-You can use the [editor on GitHub](https://github.com/Fasttrack-Azure/Course-Assessment/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This course is composed up of the below sections:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Section 1
+Multiple choice Questions
+
+#Section 2
+Lab Exercise
 
 ### Markdown
 
