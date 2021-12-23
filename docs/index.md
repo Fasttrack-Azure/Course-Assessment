@@ -1,4 +1,4 @@
-# Welcome to the course assessment for automating application deployment to AKS using GitHub Actions
+# Welcome to the course assessment for building cloud-native applications
 
 This course is composed up of the below sections:
 
