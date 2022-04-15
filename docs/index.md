@@ -2,7 +2,7 @@
 
 This course is composed up of the below sections:
 
-### Section 1 [15 Points]
+### Section 1 [20 Points]
 Multiple choice Questions
 
 ### Section 2 [30 Points]
