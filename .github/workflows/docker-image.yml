@@ -28,4 +28,4 @@ jobs:
         login-server: sbacr02.azurecr.io
         
     - name: Push Image  
-      run: docker push bacr02.azurecr.io/sidassess:latest
+      run: docker push sbacr02.azurecr.io/sidassess:latest
